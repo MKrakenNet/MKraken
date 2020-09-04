@@ -1,0 +1,10 @@
+site_name: MKraken
+site_description: 'Official documentation of MKraken'
+site_author: 'Frank Weller'
+docs_dir: docs/
+repo_name: 'mkrakennet/mkraken'
+repo_url: 'https://github.com/mkrakennet/mkraken'
+nav:
+    - Home: index.md
+theme:
+  name: 'material'
